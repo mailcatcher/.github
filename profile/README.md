@@ -4,5 +4,5 @@
 
 - From: 🇩🇪
 - Reply-To: [info@mailcatcher.dev](mailto:info@mailcatcher.dev)
-- Subject: Managed mail handling
+- Subject: Managed mail handling for non-production environments
 - X-GDPR: Compilant
